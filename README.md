@@ -44,4 +44,4 @@ No external libraries needed.
 
 ## Author
 
-Your Name — [GitHub Profile](https://github.com/yourusername)
+Parth Patil — [GitHub Profile](https://github.com/yourusername)
