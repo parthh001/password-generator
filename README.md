@@ -9,6 +9,14 @@ A simple command-line password generator built with Python.
 - You choose whether to include numbers and special characters
 - Gives you 3 options at once to pick from
 
+# Features
+
+- Custom password length
+- Optional numbers
+- Optional special characters
+- Generates 3 password choices
+- Simple command-line interface
+
 ## How to run
 
 Make sure you have Python installed, then:
